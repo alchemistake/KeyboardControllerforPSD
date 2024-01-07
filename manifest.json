@@ -1,0 +1,29 @@
+{
+    "name": "Keyboard Controller for PSD",
+    "description": "An extension for people who want to use their keyboard to control the Pokemon Showdown. Ment to be used when you cannot use a mouse. This extension is still little bit janky, but you can help improve it at https://github.com/alchemistake/psd_kb",
+    "version": "0.1",
+    "manifest_version": 3,
+    "icons": {
+        "128": "128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://play.pokemonshowdown.com/*"
+            ],
+            "js": [
+                "inject.js"
+            ]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "textmodepsd.js"
+            ],
+            "matches": [
+                "https://play.pokemonshowdown.com/*"
+            ]
+        }
+    ]
+}
