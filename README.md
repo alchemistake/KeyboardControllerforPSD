@@ -22,4 +22,4 @@ If you can fix some of the bugs, please make a pull request.
 * Settings page for selecting default mode etc.
 
 ## Publishing
-If you can spare 5 dolars to donate I will publish this extension on chrome web store. TBH it is not worth 5 dolar to me right no* w.
+If you can spare 5 dolars to donate I will publish this extension on chrome web store. TBH it is not worth 5 dolar to me right now.
