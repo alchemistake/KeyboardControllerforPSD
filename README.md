@@ -5,17 +5,21 @@ This is very early Alpha, so there are many bugs. Please report them in the issu
 If you can fix some of the bugs, please make a pull request.
 
 ## Features
-F1: Toggle Keyboard Control
-1-4: Select Moves.
-X: Toggle Switch Mode.
-1-6: Switch Pokemon (in Switch Mode).
-Z: Tera
-C: Cancel
-A: Close and Main Menu
-D: Bo3 Continute Button
+* F1: Toggle Keyboard Control
+* 1-4: Select Moves.
+* X: Toggle Switch Mode.
+* 1-6: Switch Pokemon (in Switch Mode).
+* Z: Tera
+* C: Cancel
+* A: Close and Main Menu
+* D: Bo3 Continute Button
 
-## Future Goals.
+
+## Future Goals
 * Overload Focus Room function to add highligthing and toggling switch mode automatically
 * Implement and arrow keys version for more "in cart" feeling.
 * Less jank code.
 * Settings page for selecting default mode etc.
+
+## Publishing
+If you can spare 5 dolars to donate I will publish this extension on chrome web store. TBH it is not worth 5 dolar to me right no* w.
